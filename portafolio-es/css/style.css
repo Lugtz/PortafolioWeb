@@ -275,8 +275,8 @@ h1, h2, h3, h4, h5, h6, p {
 }
 .main .proyectos .contenedor-proyectos .proyecto .info h5 {
   text-align: center;
-  margin-bottom: 1rem;
-  font-size: 1.1rem;
+  margin-bottom: 1%;
+  font-size: 7%;
   font-weight: normal;
 }
 .main .proyectos .contenedor-proyectos .proyecto .info p {
@@ -321,7 +321,7 @@ h1, h2, h3, h4, h5, h6, p {
   position: relative;
   width: 18.75rem;
   height: 25rem;
-  background: #262626;
+  background: #86868600;
   overflow: hidden;
 }
 .main .conocimientos .contenedor .contenedor-conocimientos .tarjeta input,
